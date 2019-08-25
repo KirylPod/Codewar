@@ -1,4 +1,4 @@
-public class Greeter {
+public class JennySecretMessage {
   public static String greet(String name) {
     
        
