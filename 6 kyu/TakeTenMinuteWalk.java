@@ -1,4 +1,4 @@
-public class TenMinWalk {
+public class TakeTenMinuteWalk {
     public static boolean isValid(char[] walk) {
 
         if (walk.length != 10) return false;
