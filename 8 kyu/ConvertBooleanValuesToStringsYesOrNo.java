@@ -1,4 +1,4 @@
-class YesOrNo
+class ConvertBooleanValuesToStringsYesOrNo
 {
   public static String boolToWord(boolean b)
   {
