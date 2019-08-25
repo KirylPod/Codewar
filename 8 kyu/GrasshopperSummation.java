@@ -1,4 +1,4 @@
-public class GrassHopper {
+public class GrasshopperSummation {
 
     public static int summation(int n) {
     
