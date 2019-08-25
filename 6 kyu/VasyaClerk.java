@@ -1,4 +1,4 @@
-public class Line {
+public class VasyaClerk {
    public static String Tickets(int[] peopleInLine) {
 
         int cash25 = 0;
