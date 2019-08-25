@@ -1,4 +1,4 @@
-public class JadenCase {
+public class JadenCasingStrings {
 
   public String toJadenCase(String phrase) {
        
