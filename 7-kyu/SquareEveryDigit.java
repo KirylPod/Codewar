@@ -1,4 +1,4 @@
-public class SquareDigit {
+public class SquareEveryDigit {
 
   public int squareDigits(int n) {
          
