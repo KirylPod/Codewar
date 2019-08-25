@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.List;
 
-public class Kata {
+public class NeedleInTheHaystack {
 	
 	public static String findNeedle(Object[] haystack) {
 		
