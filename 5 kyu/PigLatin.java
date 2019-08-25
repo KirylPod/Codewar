@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.regex.Pattern;
-
+/**
+ * Simple Pig Latin
+ */
 public class PigLatin {
 
     public static String pigIt(String str) {
