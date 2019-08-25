@@ -1,4 +1,4 @@
-public class Kata {
+public class EqualSidesOfAnArray  {
   private static int sumLeft;
     private static int sumRight;
     private static int e;
