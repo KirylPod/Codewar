@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Kata {
+public class SumWithoutHighestAndLowestNumber {
 	
 	public static int sum(int[] numbers){
 				
