@@ -1,4 +1,4 @@
-public class Kata {
+public class ConvertNumberToReversedArrayOfDigits {
 	
 	 public static int[] digitize(long n) {
 		 
