@@ -1,4 +1,4 @@
-public class Sid {
+public class ILoveYouLittleLotPassionately {
     public static String howMuchILoveYou(int nb_petals) {
         String[] flower = new String[]{"I love you", "a little", "a lot", "passionately", "madly", "not at all"};
         String[] temp = new String[nb_petals];
