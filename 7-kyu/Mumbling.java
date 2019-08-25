@@ -1,4 +1,4 @@
-public class Accumul {
+public class Mumbling {
     
     public static String accum(String s) {
     		String temp = new String();
