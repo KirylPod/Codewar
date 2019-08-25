@@ -1,4 +1,4 @@
-public class Kata {
+public class SimpleFunShapeArea {
     public static int shapeArea(int n) {
  	
     int i = 0;
