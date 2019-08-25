@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.LongStream;
 
-public class SumDigPower {
+public class TakeNumberAndSumItsDigitsRaisedToTheConsecutivePowers {
 
     public static List<Long> sumDigPow(long a, long b) {
 
