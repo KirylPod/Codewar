@@ -1,4 +1,5 @@
-public class DnaStrand {
+
+public class ComplementaryDNA {
   public static String makeComplement(String dna) {
      String[] array = dna.split("");
     StringBuilder sb = new StringBuilder();
