@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class StockList {
+public class HelpTheBookseller {
 
     public static String stockSummary(String[] lstOfArt, String[] lstOf1stLetter) {
         if (lstOf1stLetter.length == 0 || lstOfArt.length == 0) {
