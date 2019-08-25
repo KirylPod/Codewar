@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Counter {
+public class CountingSheep {
   public int countSheeps(Boolean[] arrayOfSheeps) {
     int counter = 0;
     for (Boolean present : arrayOfSheeps) {
