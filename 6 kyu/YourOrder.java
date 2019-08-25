@@ -1,4 +1,4 @@
-public class Order {
+public class YourOrder {
   
     public static String order(String words) {
         if (words.equals("")) {
