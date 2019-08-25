@@ -1,4 +1,4 @@
-class Kata {
+class RemoveStringSpaces {
     static String noSpace(final String x) {
     
     String str = x;
