@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-class Metro {
+class NumberOfPeopleInTheBus {
 
   public static int countPassengers(ArrayList<int[]> stops) {
   		int into = 0, off = 0;
