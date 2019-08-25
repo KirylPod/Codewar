@@ -1,4 +1,4 @@
- public class Sum
+ public class BeginnerSeriesSumOfNumbers
   {
      public int GetSum(int a, int b)
      {
