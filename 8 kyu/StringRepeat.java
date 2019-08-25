@@ -1,4 +1,4 @@
-public class Solution {
+public class StringRepeat {
     public static String repeatStr(final int repeat, final String string) {
     
 	 String repeated = new String();
