@@ -1,4 +1,4 @@
-public class DigPow {
+public class PlayingWithDigits {
 	
 	public static long digPow(int n, int p) {
 	double k = 0;
