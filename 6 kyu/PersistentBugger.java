@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-class Persist {
+class PersistentBugger {
 		    public static int persistence(long n) {
         long pr = 1;
         int m = 0;
