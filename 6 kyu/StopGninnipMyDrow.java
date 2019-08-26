@@ -1,4 +1,4 @@
-public class SpinWords {
+public class StopGninnipMyDrow {
 
   public String spinWords(String sentence) {
 
