@@ -1,4 +1,4 @@
-public class Solution {
+public class Multiples {
 
   public int solution(int number) {
       int sum3 = 0, sum5 = 0;
